@@ -1,0 +1,6 @@
+Flask
+imutils
+tensorflow
+opencv-python
+Pillow
+scikit-image
