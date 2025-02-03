@@ -47,7 +47,7 @@ IMAGE WATERMARKING FLASK APP/
 ## How to Run Locally
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-watermarking-flask-app.git
+    git clone https://github.com/tasnimuldatascience/image-watermarking-flask-heroku.git
     cd image-watermarking-flask-app
     ```
 
